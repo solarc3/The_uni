@@ -19,3 +19,4 @@ A compact unibody split ortholinear keyboard made specifically for stenography.
     See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
 .Hex listo para poner en qmk toolbox :floop:
+13/7 debido ser un fork del proyecto inicial, pero se me olvido la existencia de esa funcionalidad
